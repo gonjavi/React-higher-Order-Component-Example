@@ -9,8 +9,8 @@ class App extends Component {
 
     return (
       <div className="App">
-        <ClickCounter />
-        <HoverCounter />
+        <ClickCounter name="Karol" />
+        <HoverCounter name="Andres" />
       </div>
     )
   }
