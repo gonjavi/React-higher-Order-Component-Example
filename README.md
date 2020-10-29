@@ -1,6 +1,6 @@
 # React Higher Order Components example
 
-This is an example of higher order component
+This is a basic example of higher order component
 
 ### Setup
 
